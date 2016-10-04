@@ -1,4 +1,4 @@
-package kruskal;
+package graph.mst.kruskal;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
